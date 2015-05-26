@@ -7,6 +7,7 @@ import android.util.Log;
 
 /**
  * Created by DauTV on 26/05/2015.
+ * sdfsdfs
  */
 public class MainActivity extends Activity{
     @Override
